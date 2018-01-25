@@ -10,8 +10,9 @@ This additional panel field for [Kirby 2](http://getkirby.com) allows you to use
 
 ## Installation
 
-Copy or link the `selector` directory to `site/plugins/` **or** use the [Kirby CLI](https://github.com/getkirby/cli) `kirby plugin:install storypioneers/kirby-selector`.
-
+Copy or link the `kirby-selector` directory to `site/plugins/`
+**or** `composer require storypioneers/kirby-selector`
+**or** use the [Kirby CLI](https://github.com/getkirby/cli) `kirby plugin:install storypioneers/kirby-selector`.
 
 ## Usage
 

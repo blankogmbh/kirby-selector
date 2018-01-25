@@ -1,0 +1,14 @@
+{
+    "name": "storypioneers/kirby-selector",
+    "type": "kirby-plugin",
+    "require": {
+        "composer/installers": "~1.0",
+        "getkirby/kirby": "^2.1"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/blankogmbh/kirby-selector"
+        }
+    ]
+}
